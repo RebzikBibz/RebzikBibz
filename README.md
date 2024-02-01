@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **RebzikBibz/RebzikBibz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: From Home to Atlantis 
 - 😄 Pronouns: Ega
 - ⚡ Fun fact: I know how to do a funny face degeneration 
--->
